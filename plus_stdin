@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-# SPDX - FilecopyrightText: 2022 Rion Miura
+# SPDX - FilecopyrightText: 2022 Rion Miur
+# SPDX - License-Identifier: BSD-3-Clause
 import sys   
 
 ans = 0
