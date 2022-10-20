@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# SPDX - FilecopyrightText: 2022 Rion Miura
 import sys   
 
 ans = 0
@@ -8,4 +9,3 @@ for line in sys.stdin:
     except:
        ans += float(line)
 print(ans)
-
