@@ -6,7 +6,6 @@ import sys
 add = 0
 i = 0
 ans = 0
-
 for line in sys.stdin:
     try:
        add += int(line)
