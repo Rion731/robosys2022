@@ -3,7 +3,10 @@
 # plusコマンド
 ![test](https://github.com/Rion731/robosys2022/actions/workflows/test.yml/badge.svg)
 
-標準入力から受け取った値の平均を返すプログラム
+plus:標準入力から受け取った値の平均を返すプログラム
+
+平均を求めたいときに使用するプログラム
+標準入力に値を代入するとその値を足し足した回数で割り平均を出力するプログラムである
 
 ## 必要なソフトウェア
 * Pythin
