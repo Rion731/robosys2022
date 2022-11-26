@@ -10,8 +10,7 @@ ans = 0
 for line in sys.stdin:
     try:
        add += int(line)
-       i += 1
-       
+       i += 1       
     except:
        add += float(line)
        i += 1
