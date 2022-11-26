@@ -1,9 +1,9 @@
 # robosys2022
 ロボットシステム学の練習リポジトリ
 # plusコマンド
-![test] (https://github.com/Rion731/robosys2022/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/Rion731/robosys2022/actions/workflows/test.yml/badge.svg)
 
-標準入力から受け取った値の和を返すプログラム
+標準入力から受け取った値の平均を返すプログラム
 
 ## 必要なソフトウェア
 * Pythin
