@@ -3,11 +3,16 @@
 # SPDX - License-Identifier: BSD-3-Clause
 import sys
 
+add = 0
+i = 0
 ans = 0
-
 for line in sys.stdin:
     try:
-       ans += int(line)
+       add += int(line)
+       i += 1       
     except:
-       ans += float(line)
+       add += float(line)
+       i += 1
+
+ans = add / i
 print(ans)
