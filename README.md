@@ -1,5 +1,6 @@
 # robosys2022
 ロボットシステム学の練習リポジトリ
+このリポジトリにはplusコマンドが含まれている
 # plusコマンド
 ![test](https://github.com/Rion731/robosys2022/actions/workflows/test.yml/badge.svg)
 
