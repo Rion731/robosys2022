@@ -1,6 +1,6 @@
 #!/bin/bash -xv 
-# SPDX - FilecopyrightText: 2022 Rion Miur
-# SPDX - License-Identifier: BSD-3-Clause
+# SPDX-FileCopyrightText: 2022 Rion Miura
+# SPDX-License-Identifier: BSD-3-Clause
 
 ng (){
 	echo NG at Line $1
