@@ -1,6 +1,6 @@
 # robosys2022
 ロボットシステム学の練習リポジトリ
-このリポジトリにはaveコマンドが含まれている
+ ：このリポジトリにはaveコマンドが含まれている
 # aveコマンド
 ![test](https://github.com/Rion731/robosys2022/actions/workflows/test.yml/badge.svg)
 
