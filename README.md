@@ -18,10 +18,10 @@ ave:標準入力から受け取った値の平均を返すプログラム
    3.0 
 ## ファイルのダウンロード方法
 * git cloneでのダウンロード
-   :git clone (https://github.com/Rion731/robosys2022.git)
+   ：git clone (https://github.com/Rion731/robosys2022.git)
 
 * ZIPファイルでのダウンロード
-   :Codeタブをクリックし、左下のDownload ZIPをクリック
+   ：Codeタブをクリックし、左下のDownload ZIPをクリック
 
 
 ## 必要なソフトウェア
