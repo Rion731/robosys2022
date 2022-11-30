@@ -12,13 +12,14 @@
 * 標準入力に値を代入するとその値を足し足した回数で割り平均を出力するプログラムである
 
 * 使用例
-seq 10 | ./ave 
+
+   * seq 10 | ./ave 
   
-5.5
+     5.5
 
-seq 5 | ./ave
+   * seq 5 | ./ave
 
-3.0 
+     3.0 
 ## ファイルのダウンロード方法
 * git cloneでのダウンロード
    ：git clone (https://github.com/Rion731/robosys2022.git)
