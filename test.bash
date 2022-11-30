@@ -9,14 +9,14 @@ ng (){
 
 res=0
 
-out=$(seq 5 | ./plus)
+out=$(seq 5 | ./ave)
 [ "${out}" = 3.0 ] || ng ${LINENO}
 
-out=$(echo あ | ./plus)
+out=$(echo あ | ./ave)
 [ "$?" = 1 ]      || ng ${LINENO}
 [ "${out}" = "" ] || ng ${LINENO}
 
-out=$(echo | ./plus)
+out=$(echo | ./ave)
 [ "$?" = 1 ]      || ng ${LINENO}
 [ "${out}" = "" ] || ng ${LINENO}
 
