@@ -4,16 +4,16 @@
 
 import sys
 
-add = 0
-i = 0
 ans = 0
+i = 0
+ave = 0
 for line in sys.stdin:
     try:
-       add += int(line)
+       ans += int(line)
        i += 1       
     except:
-       add += float(line)
+       ans += float(line)
        i += 1
 
-ans = add / i
-print(ans)
+ave = ans / i
+print(ave)
